@@ -14,11 +14,20 @@ Here are some ideas to get you started:
 -->
 
 
-### Hey! :) 
+### Hey! My name is Thalita :) 
 
 ---
 <a href="https://i.ibb.co/TP3qKcp/Thalita-Mayra-3-1.png"><img src="https://i.ibb.co/TP3qKcp/Thalita-Mayra-3-1.png" alt="Thalita-Mayra-3-1" border="0"></a>
  
+---
+
+📍 De São Paulo
+
+👩‍💻 Em constante aprendizado
+
+🌾 AMO a natureza!
+
+🐱 Gatófila
 
 ---
 
