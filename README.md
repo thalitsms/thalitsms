@@ -1,5 +1,4 @@
-<!--
-**thalitsms/thalitsms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thalitsms/thalitsms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -44,5 +43,16 @@ Onde me encontrar? :mag:
 
 
 ---  
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitsms&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=thalitsms&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
+
+---
 
 ![](https://komarev.com/ghpvc/?username=thalitsms&color=blue&style=flat)
