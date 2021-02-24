@@ -1,4 +1,4 @@
-thalitsms/README.md
+https://github.com/thalitsms/mynameisthalita/README.md
 
 /*thalitsms/thalitsms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.*/
 
