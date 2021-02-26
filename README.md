@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 ---
 
-Participando do Bootcamp da [Generation Brasil](https://brazil.generation.org/).  
+Participando do Bootcamp da [Generation Brasil](https://brazil.generation.org/).
+Participando do Bootcamp Online da [Rocketseat](https://rocketseat.com.br/).
 
 ---
 
