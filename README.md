@@ -34,6 +34,10 @@ Participando do Bootcamp da [Generation Brasil](https://brazil.generation.org/).
 
 ---
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12143241866)
+
 Onde me encontrar? :mag:  
 
 <a href="https://www.instagram.com/thalitsms"><img src="https://github.com/leticiadasilva/leticiadasilva/blob/main/images/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/thalitsms)  
