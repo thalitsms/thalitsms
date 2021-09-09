@@ -7,7 +7,7 @@ githubUsername: 'thalitsms'
 ---
 
 <h2> Hi, I'm Thalita! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47xdnkgetejr6j6l2qm7fqce56j5vs9gt8g8yivhy2&rid=giphy.gif&ct=g.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/Cglm3JaOZFSOFYx1qY/giphy.gif?cid=ecf05e47ln5lh9uic770g3ykmzpohiya1g0buaq8x1r69rz8&rid=giphy.gif&ct=g.gif" width="230">
 <p><em>It Developer at <a href="https://www.santander.com.br">Santander Brazil</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
