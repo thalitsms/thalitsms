@@ -21,9 +21,9 @@ githubUsername: 'thalitsms'
 ```javascript
 const thalits = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Angular, Java],
-  tools: [React, Node, Storybook, Styled-Components, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Java, Angular, Javascript],
+  tools: [Grafana, Dynatrace, Apigee, Openshift, Sonarqube, SOAP, Jenkins, Jira, Sharepoint, Confluence, Power BI, Jmeter, Dbeaver, Control-M, ServiceNow],
+  architecture: ["microservices with spring boot", "event-driven", "design system pattern"],
   softSkills: {
                         comunication: "It positively the success of a conversation as much as the speakers.",
                         responsability: "Take responsability, work hard, keep commitmentes, and make no excuses.",
