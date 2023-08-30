@@ -12,7 +12,7 @@ githubUsername: 'thalitsms'
 
 [![Twitter: thalitsms](https://img.shields.io/twitter/follow/thalitsms?style=social)](https://twitter.com/thalitsms)
 [![Linkedin: thalitsms](https://img.shields.io/badge/-thalitsms-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalitsms/)](https://www.linkedin.com/in/thalitsms/)
-[![GitHub thalitsms](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub thalitsms](https://img.shields.io/github/followers/thalitsms?label=follow&style=social)](https://github.com/thalitsms)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
