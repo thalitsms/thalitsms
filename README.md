@@ -29,10 +29,10 @@ const me = {
   tools: [Maven, Jenkins, Gitlab, Sonar, Fortify, Artifactory, Jira, Confluence, ServiceNow],
   architecture: ["microservices with spring boot", "event-driven", "design system pattern"],
   softSkills: {
-                        comunication: "It positively the success of a conversation as much as the speakers.",
-                        responsability: "Take responsability, work hard, keep commitmentes, and make no excuses.",
-                        persistence: "Seeing challenges as something I can overcome."
-                      },
+      comunication: "It positively the success of a conversation as much as the speakers.",
+      responsability: "Take responsability, work hard, keep commitmentes, and make no excuses.",
+      persistence: "Seeing challenges as something I can overcome."
+      },
  challenge: "Working hard to be strong and influential in bringing more women into IT with lots of knowledge and empathy."
 }
 
