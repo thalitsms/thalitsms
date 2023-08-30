@@ -19,20 +19,23 @@ githubUsername: 'thalitsms'
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thalits = {
+const me = {
   pronouns: "she" | "her",
   code: [Java, Angular, Javascript],
-  tools: [Grafana, Dynatrace, Apigee, Openshift, Sonarqube, 
-          SOAP, Jenkins, Jira, Sharepoint, Confluence, Power BI, 
-          Jmeter, Dbeaver, Control-M, ServiceNow],
+  expertise: ["Containerization", "SRE (Site Reliability Engineering)", 
+              "APIs", "SOAP", "Amazon RDS", "PostgreSQL", "Microservices", 
+              "Multi Cloud", "Cloud Services (Openshift)", "DevSecOps", 
+              "Apache Camel", "Spring Batch"],
+  tools: [Maven, Jenkins, Gitlab, Sonar, Fortify, Artifactory, Jira, Confluence, ServiceNow],
   architecture: ["microservices with spring boot", "event-driven", "design system pattern"],
   softSkills: {
-                        comunication: "It positively the success of a conversation as much as the speakers.",
-                        responsability: "Take responsability, work hard, keep commitmentes, and make no excuses.",
-                        persistence: "Seeing challenges as something I can overcome."
-                      },
- challenge: "Working hard to be strong and influential in bringing more women into IT with lots of knowledge and empathy."
+                communication: "It positively influences the success of a conversation as much as the speakers do.",
+                responsibility: "I take responsibility, work hard, maintain commitments, and make no excuses.",
+                persistence: "I view challenges as something I can overcome."
+              },
+  challenge: "Working diligently to be a strong and influential advocate for bringing more women into IT with ample knowledge and empathy."
 }
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
