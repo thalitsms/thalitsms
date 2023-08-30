@@ -38,7 +38,6 @@ const me = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-<img align='right' src="https://media.giphy.com/media/Cglm3JaOZFSOFYx1qY/giphy.gif?cid=ecf05e47ln5lh9uic770g3ykmzpohiya1g0buaq8x1r69rz8&rid=giphy.gif&ct=g.gif" width="230">
 
 ---
 
